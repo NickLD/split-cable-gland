@@ -1,0 +1,7 @@
+{
+  "title": "Split Cable Gland",
+  "description": "Threaded pass-through gland that closes around cables with connectors already on them. 1–8 cables, radial or inline.",
+  "files": [
+    { "path": "cable_gland.scad", "title": "Cable gland", "description": "Print layout, body only, nut only or assembled preview", "thumbnail": "showcase/img/01_hero.png" }
+  ]
+}

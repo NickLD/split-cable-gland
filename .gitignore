@@ -1,0 +1,6 @@
+tools/
+out/
+release/stl/
+*.stl
+__pycache__/
+.playwright-mcp/

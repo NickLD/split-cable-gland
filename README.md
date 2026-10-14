@@ -1,4 +1,5 @@
 # Customizable Split Cable Gland
+[![Open in OpenSCAD Customizer](https://img.shields.io/badge/Open%20in-OpenSCAD%20Customizer-f9d72c)](https://openscad.app/#/gh/NickLD/split-cable-gland/cable_gland.scad)
 
 A split, threaded cable gland you can size for your own cables. Close the body around one or more cables, push it through a hole in your panel, and screw the nut down. The split body clamps the cables and the nut locks the whole thing in place.
 

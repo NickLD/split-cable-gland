@@ -57,4 +57,4 @@ CC BY 4.0. Based on the design by zuberio. Credit both if you remix it.
 
 ## Customize it in your browser
 
-[![Open in OpenSCAD Customizer](https://img.shields.io/badge/Open%20in-OpenSCAD%20Customizer-f9d72c)](https://nickld.github.io/openscad-customizer/#/gh/NickLD/split-cable-gland)
+[![Open in OpenSCAD Customizer](https://img.shields.io/badge/Open%20in-OpenSCAD%20Customizer-f9d72c)](https://openscad.app/#/gh/NickLD/split-cable-gland)
